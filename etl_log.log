@@ -1,0 +1,16 @@
+INFO:root:Data successfully loaded from data/input_data.csv.
+INFO:root:Data cleaned successfully.
+INFO:root:Data successfully saved to data/transformed_data.csv.
+INFO:root:Data successfully loaded from data/input_data.csv.
+INFO:root:Data cleaned successfully.
+INFO:root:Data successfully saved to data/transformed_data.csv.
+INFO:root:Data successfully loaded from data/input_data.csv.
+INFO:root:Rows with missing 'age' dropped.
+INFO:root:Renamed column 'old_column_name' to 'new_column_name'.
+INFO:root:Converted 'date_column' to datetime format.
+INFO:root:Data successfully saved to data/transformed_data.csv.
+INFO:root:Data successfully loaded from data/input_data.csv.
+INFO:root:Rows with missing 'age' dropped.
+INFO:root:Renamed column 'old_column_name' to 'new_column_name'.
+INFO:root:Converted 'date_column' to datetime format.
+INFO:root:Data successfully saved to data/transformed_data.csv.

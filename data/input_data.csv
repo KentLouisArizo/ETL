@@ -1,0 +1,5 @@
+id,name,age,city,old_column_name,date_column
+1,John Doe,28,New York,100,2022-01-01
+2,Jane Smith,34,Los Angeles,200,2022-02-15
+3,Bob Johnson,45,Chicago,300,2022-03-30
+4,Alice Williams,,Houston,400,2022-04-05
